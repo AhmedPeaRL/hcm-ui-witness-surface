@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background: #0f0f0f;
+  color: #e0e0e0;
+  font-family: system-ui, sans-serif;
+}
+
+.presence {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  opacity: 0.85;
+}
